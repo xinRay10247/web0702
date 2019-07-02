@@ -1,0 +1,16 @@
+[
+		{"id":"11","name":"张祥","phone":"13096589657","sex":"男","studentid":"110263985225","school":"猿究院1","grade":"大二","class":"210班","parentcount":"2"},
+		{"id":"111","name":"张祥1","phone":"13096589657","sex":"女","studentid":"13410263985225","school":"猿究院2","grade":"大3二","class":"310班","parentcount":"62"},	
+		{"id":"112","name":"张祥2","phone":"13096589657","sex":"男","studentid":"165610263985225","school":"猿究院3","grade":"大2二","class":"410班","parentcount":"32"},	
+		{"id":"113","name":"张祥3","phone":"13096589657","sex":"女","studentid":"14210263985225","school":"猿究院4","grade":"大1二","class":"510班","parentcount":"12"},	
+		{"id":"114","name":"张祥4","phone":"13096589657","sex":"男","studentid":"1510263985225","school":"猿究院5","grade":"大二9","class":"610班","parentcount":"29"},	
+		{"id":"115","name":"张4祥","phone":"13096589657","sex":"女","studentid":"13210263985225","school":"猿究院6","grade":"大二8","class":"710班","parentcount":"28"},	
+		{"id":"116","name":"张5祥","phone":"13096589657","sex":"女","studentid":"18710263985225","school":"猿究院7","grade":"大二7","class":"810班","parentcount":"27"},	
+		{"id":"117","name":"张6祥","phone":"13096589657","sex":"男","studentid":"134310263985225","school":"猿究院8","grade":"大二6","class":"910班","parentcount":"26"},	
+		{"id":"118","name":"张7祥","phone":"13096589657","sex":"女","studentid":"18710263985225","school":"猿究院9","grade":"大二5","class":"1110班","parentcount":"25"},	
+		{"id":"119","name":"张8祥","phone":"13096589657","sex":"男","studentid":"123210263985225","school":"猿究院0","grade":"大二4","class":"1210班","parentcount":"24"},	
+		{"id":"111","name":"张9祥","phone":"13096589657","sex":"男","studentid":"17610263985225","school":"猿究院aa","grade":"大二3","class":"1310班","parentcount":"23"},	
+		{"id":"121","name":"张11祥","phone":"13096589657","sex":"女","studentid":"14510263985225","school":"猿究院cc","grade":"大二2","class":"1410班","parentcount":"21"},	
+		{"id":"131","name":"张12祥","phone":"13096589657","sex":"男","studentid":"17610263985225","school":"猿究院dd","grade":"大二1","class":"1510班","parentcount":"22"}	
+	
+]
